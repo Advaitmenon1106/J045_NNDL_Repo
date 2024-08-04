@@ -8,7 +8,7 @@ No, it is not necessary. "Activation=linear" is effectively implying there is no
 
 Defined for an entire layer, and its weights. It is a matrix of derivative operations. More will be discussed on the same in the future.
 
-[Jacobian matrix in ANN weight updation](./sources/jacobian-in-nn.png)
+![Jacobian matrix in ANN weight updation](./sources/jacobian-in-nn.png)
 
 #### Homework / Self Assignment
 
@@ -24,7 +24,7 @@ SMOTE for Imbalanced classes- to maintain a similar distribution of classes in t
   - Early Stopping
   - Plotting model parameters
 
-### Types of problem to be solved, the activation function in the last layer and the loss function used
+### Types of problems to be solved, the activation function in the last layer and the loss function used
 
 | Type of problem                                 | Last Layer  | Loss                    |
 | ----------------------------------------------- | ----------- | ----------------------- |
