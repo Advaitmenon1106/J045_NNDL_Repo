@@ -8,7 +8,7 @@ No, it is not necessary. "Activation=linear" is effectively implying there is no
 
 Defined for an entire layer, and its weights. It is a matrix of derivative operations. More will be discussed on the same in the future.
 
-<img src='./sources/jacobian-in-nn.png' alt='Jacobian matrix in ANN weight updation'/>
+[Jacobian matrix in ANN weight updation](./sources/jacobian-in-nn.png)
 
 #### Homework / Self Assignment
 
@@ -26,13 +26,13 @@ SMOTE for Imbalanced classes- to maintain a similar distribution of classes in t
 
 ### Types of problem to be solved, the activation function in the last layer and the loss function used
 
-| Type of problem       | Last Layer  | Loss         |
-| --------------------- | ----------- | ------------ |
-| Binary Classification | Sigmoid     | BCE          |
-| Multiclass            | Softmax     | CCE          |
-| Multilabel            | Sigmoid     | BCE          |
-| Regression            | Linear/None | MAE/MSE/RMSE |
-| Regression -> [0, 1]  | Sigmoid     | MAE/MSE/RMSE |
+| Type of problem                                 | Last Layer  | Loss                    |
+| ----------------------------------------------- | ----------- | ----------------------- |
+| Binary Classification                           | Sigmoid     | BinaryCrossEntropy      |
+| Multiclass                                      | Softmax     | CategoricalCrossEntropy |
+| Multilabel                                      | Sigmoid     | BinaryCrossEntropy      |
+| Regression                                      | Linear/None | MAE/MSE/RMSE            |
+| Regression -> [0, 1] (output belongs to [0, 1]) | Sigmoid     | MAE/MSE/RMSE            |
 
 3 main ways to overfit a model on data:-
 
