@@ -6,7 +6,9 @@ No, it is not necessary. "Activation=linear" is effectively implying there is no
 
 ### Jacobian
 
-Defined for an entire layer, and its weights. It is a matrix of derivative operations. More Will be discussed on the same in the future.
+Defined for an entire layer, and its weights. It is a matrix of derivative operations. More will be discussed on the same in the future.
+
+<img src='./sources/jacobian-in-nn.png' alt='Jacobian matrix in ANN weight updation'/>
 
 #### Homework / Self Assignment
 
