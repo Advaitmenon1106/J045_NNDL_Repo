@@ -10,5 +10,5 @@
 
 | Date             | Dataset used                                                                                       | Link to the code                      |
 | ---------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 3rd August, 2024 | [Bike Sales](https://www.kaggle.com/datasets/kristianbarnsley/peer-to-peer-dress-rental-prices)    | [Click here](Bike-Sales\code.ipynb)   |
-| 3rd August, 2024 | [Dress-Rentals](https://www.kaggle.com/datasets/kristianbarnsley/peer-to-peer-dress-rental-prices) | [Click here](Dress-Rental\code.ipynb) |
+| 3rd August, 2024 | [Bike Sales](https://www.kaggle.com/datasets/kristianbarnsley/peer-to-peer-dress-rental-prices)    | [Click here](Bike-Sales/code.ipynb)   |
+| 3rd August, 2024 | [Dress-Rentals](https://www.kaggle.com/datasets/kristianbarnsley/peer-to-peer-dress-rental-prices) | [Click here](Dress-Rental/code.ipynb) |
