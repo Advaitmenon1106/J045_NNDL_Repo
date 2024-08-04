@@ -13,7 +13,7 @@ Defined for an entire layer, and its weights. It is a matrix of derivative opera
 #### Homework / Self Assignment
 
 Work on the Reuters dataset.
-Try using NLP concepts on this dataset
+Try using NLP concepts on this dataset.
 SMOTE for Imbalanced classes- to maintain a similar distribution of classes in training and testing/validation/both datasets.
 
 ### Things to remember (and recommended) while using Keras:-
@@ -73,8 +73,8 @@ SMOTE for Imbalanced classes- to maintain a similar distribution of classes in t
 ### Optimisers
 
 - SGD (basic, simple Gradient Descent)
-- "Momentum"
-- Nesterov Accelerated Gradient: "Where I think I have to go minus where I must"
+- "Momentum" based gradient descent approaches
+- Nesterov Accelerated Gradient: "Where I think I have to go minus where I must go"
 
 #### Note
 
