@@ -1,4 +1,4 @@
-## Contents
+## 4th August, 2024
 
 ### Is the non linear component of a neural network a mandate/is it necessary?
 
